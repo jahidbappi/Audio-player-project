@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class One_frame extends JFrame{
 public One_frame(){
-    setTitle("AUDIO_1.00");
+    setTitle("AUDI");
     setSize(800, 600);
     setVisible(true);
 
